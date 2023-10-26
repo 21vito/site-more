@@ -1,0 +1,25 @@
+@font-face {
+    font-family: BD;
+    src: url('../fontes/BoldFashion_PERSONAL_USE_ONLY.otf');
+}
+
+body{
+    background-image: linear-gradient(to right, #0035AA, #9C4E97, #D70071);
+    font-family: BD;
+    font-size: 2em;
+}
+
+h1 {
+    color: #F3CA16;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.28); 
+    width: 600px; padding: 10px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #191f2074;
+    }
+
+h2 {color: #FFD9CE;}
+
+
+    
